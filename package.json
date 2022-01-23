@@ -1,0 +1,27 @@
+{
+  "name": "cefet-web-geiser",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Um mostruário de algumas pessoas que ficam fritando seus PCs. Há uma página que mostra essas pessoas e outra com detalhes sobre o que elas andam fazendo com seus computadores.",
+  "main": "server/app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neiva098/cefet-web-geiser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neiva098/cefet-web-geiser/issues"
+  },
+  "homepage": "https://github.com/neiva098/cefet-web-geiser#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
