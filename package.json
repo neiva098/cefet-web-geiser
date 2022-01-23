@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/neiva098/cefet-web-geiser#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "hbs": "^4.2.0"
   }
 }
